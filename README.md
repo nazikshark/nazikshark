@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nazik! 
+# 👋 Hi there, I'm Nazar! 
 
 ### 👨‍💻 Aspiring Web Developer | Student at GOIT
 I am a passionate tech student focused on mastering modern web development. I love building clean, functional, and user-friendly interfaces.
